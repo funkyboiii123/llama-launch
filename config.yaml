@@ -1,0 +1,8 @@
+dir: ./
+mdl: ./models
+ctx: "16384"
+gpu: "all"
+bat: "2048"
+thrd: "10"
+flsh: on
+#arg: work
