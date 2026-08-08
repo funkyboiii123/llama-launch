@@ -4,4 +4,6 @@ Run [llama.cpp](https://github.com/ggml-org/llama.cpp/releases/latest) releases 
 ## Instructions:
 
 * Clone the repo: ` git clone https://github.com/funkyboiii123/llama-launch `
+* Extract a llama.cpp release into the folder.
+* Open "run.sh" to run.
 * [Install Git-Bash](https://git-scm.com/install/) to open .SH (shell-script) files if you don't already have Bash.
