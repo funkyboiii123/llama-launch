@@ -23,7 +23,7 @@ read -p "Enter model URL (ending with \".gguf\"): " url
 echo ""
 draw_line "-"
 echo ""
-curl  -L -O $url
+curl  -JLO $url
 echo ""
 draw_line "-"
 echo ""
